@@ -1,0 +1,114 @@
+{"intents": [
+     {
+         "tags": "greeting",
+         "quest": ["how are you", "how its going", "whats up", "kaisa hai"],
+         "ans": ["i am fine", "good sir"]
+     },
+     {
+         "tags": "hi_hello",
+         "quest": ["hey", "hi", "who is there", "anyone here"],
+         "ans": ["hi, sir Dyno here", "Dyno here, how can i help you"]
+     },
+     {
+         "tags": "information",
+         "quest": ["when is your birthday your name whats your name", "who created you", "where are you now", "what can you do"],
+         "ans": ["hi sir, i am Dyno i was created by mr Dyno to help them in 2020.\nI can help you to \nopen any application, open movie, play music from your pc \nsearch content from web and lot more\nas you are using me i am in your system and you are in my heart "]
+     },
+     {
+         "tags": "user_info",
+         "quest": ["who i am","whats my name","where i am now"],
+         "ans": ["sir as you told me, your name is dnyaneshwar you are 20 year old now,\nyou are using me now probably you are at home or college "]
+     },
+     {
+         "tags": "p_song",
+         "quest": ["play song","songs"],
+         "ans": ["yes sir sure"]
+     },
+     {
+         "tags": "open_app",
+         "quest": ["open app"],
+         "ans": ["yes sir sure"]
+     },
+     {
+         "tags": "open_file",
+         "quest": ["open file","pdf jpj png txt"],
+         "ans": ["yes sir sure"]
+     },
+     {
+         "tags": "p_movie",
+         "quest": ["play movie","movies in vlc"],
+         "ans": ["yes sir sure"]
+     },
+     {
+         "tags": "location",
+         "quest": ["how long is i want go","where is how to get to location take me to"],
+         "ans": ["yes sir sure i will take you there"]
+     },
+     {
+         "tags": "time",
+         "quest": ["whats time","time me tell now"],
+         "ans": ["yes sir sure"]
+     },
+     {
+         "tags": "todo",
+         "quest": ["create todo","my todo"],
+         "ans": ["yes sir sure"]
+     },
+     {
+         "tags": "close",
+         "quest": ["close app"],
+         "ans": ["yes sir sure"]
+     },
+     {
+         "tags": "weather",
+         "quest": [],
+         "ans": ["yes sir sure"]
+     },
+     {
+         "tags": "tk",
+         "quest": ["thank u"],
+         "ans": ["welcome sir i will ready to help you any time."]
+     },
+     {
+         "tags": "note",
+         "quest": ["create note", "add a note"],
+         "ans": ["done"]
+     },
+     {
+         "tags": "love_u",
+         "quest": ["love you", "thanks"],
+         "ans": ["love you 3000"]
+     },
+     {
+         "tags": "remainders",
+         "quest": ["create remainders", "remind me"],
+         "ans": ["ok sir i will be "]
+     },
+     {
+         "tags": "characters",
+         "quest": ["?", "' , . ; : ",""],
+         "ans": ["please type correctly"]
+     },
+     {
+         "tags": "math",
+         "quest": ["what is", "find of do this calculation  calculate","tell"],
+         "ans": ["yes sir sure"]
+     },
+     {
+         "tags": "search",
+         "quest": ["search who is what is"],
+         "ans": ["yes sir sure"]
+     },
+     {
+         "tags": "voice_rec",
+         "quest": ["turn on voice mode recognition"],
+         "ans": ["yes sir sure"]
+     },
+     {
+         "tags": "opnsite",
+         "quest": ["open site"],
+         "ans": ["yes sir sure opening xyz.com"]
+     }
+
+
+ ]}
